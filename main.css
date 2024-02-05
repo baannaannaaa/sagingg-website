@@ -1,0 +1,40 @@
+p {
+    color:#C0392B;
+}
+h1 {
+    color:#f222ff;
+}
+a {
+    color:#8E44AD; 
+}
+
+
+.test {
+    font-size:  60px;
+    font-style:italic;
+}
+.center {
+    display: contents;
+    margin: right 100px;;
+    margin: left 100px;;
+    width:1000px; 
+}
+.center{
+    text-align: center;
+    font-size: 100px;
+}
+.body{
+    background-color:#EBDEF0;
+}
+
+.center{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: auto;
+}
+
+.p {
+    font-size: 90px ;
+    color: #cf6185;
+}
